@@ -1,0 +1,23 @@
+#
+# generated on 2019/08/24 10:32:21
+#
+# --table-start--
+dataClass=com.example.ormlitedemo.Classes.Note
+tableName=note
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=subject
+# --field-end--
+# --field-start--
+fieldName=text
+# --field-end--
+# --field-start--
+fieldName=date
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
